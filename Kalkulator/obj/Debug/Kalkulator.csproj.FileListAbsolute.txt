@@ -1,0 +1,11 @@
+E:\Studia\3. Programowanie obiektowe i graficzne\lab\kalkulator\Kalkulator\Kalkulator\bin\Debug\Kalkulator.exe.config
+E:\Studia\3. Programowanie obiektowe i graficzne\lab\kalkulator\Kalkulator\Kalkulator\bin\Debug\Kalkulator.exe
+E:\Studia\3. Programowanie obiektowe i graficzne\lab\kalkulator\Kalkulator\Kalkulator\bin\Debug\Kalkulator.pdb
+E:\Studia\3. Programowanie obiektowe i graficzne\lab\kalkulator\Kalkulator\Kalkulator\obj\Debug\Kalkulator.csproj.AssemblyReference.cache
+E:\Studia\3. Programowanie obiektowe i graficzne\lab\kalkulator\Kalkulator\Kalkulator\obj\Debug\Kalkulator.csproj.SuggestedBindingRedirects.cache
+E:\Studia\3. Programowanie obiektowe i graficzne\lab\kalkulator\Kalkulator\Kalkulator\obj\Debug\Kalkulator.Form1.resources
+E:\Studia\3. Programowanie obiektowe i graficzne\lab\kalkulator\Kalkulator\Kalkulator\obj\Debug\Kalkulator.Properties.Resources.resources
+E:\Studia\3. Programowanie obiektowe i graficzne\lab\kalkulator\Kalkulator\Kalkulator\obj\Debug\Kalkulator.csproj.GenerateResource.cache
+E:\Studia\3. Programowanie obiektowe i graficzne\lab\kalkulator\Kalkulator\Kalkulator\obj\Debug\Kalkulator.csproj.CoreCompileInputs.cache
+E:\Studia\3. Programowanie obiektowe i graficzne\lab\kalkulator\Kalkulator\Kalkulator\obj\Debug\Kalkulator.exe
+E:\Studia\3. Programowanie obiektowe i graficzne\lab\kalkulator\Kalkulator\Kalkulator\obj\Debug\Kalkulator.pdb
